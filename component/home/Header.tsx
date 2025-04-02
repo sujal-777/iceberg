@@ -38,8 +38,8 @@ export default function Header() {
                 <Image
                   src="/header-1.png"
                   alt="Student studying in library"
-                  width={600}
-                  height={400}
+                  width={400}
+                  height={600}
                   className="object-cover"
                 />
               </div>
@@ -51,8 +51,8 @@ export default function Header() {
                 <Image
                   src="/header-2.png"
                   alt="Student with books"
-                  width={600}
-                  height={400}
+                  width={400}
+                  height={600}
                   className="object-cover"
                 />
               </div>
@@ -64,8 +64,8 @@ export default function Header() {
                 <Image
                   src="/header-3.png"
                   alt="Student in classroom"
-                  width={600}
-                  height={400}
+                  width={400}
+                  height={600}
                   className="object-cover"
                 />
               </div>
